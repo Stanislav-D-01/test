@@ -1,0 +1,13 @@
+.profile{
+    margin-top: 100px;
+}
+
+.profile__image{
+    max-width: 1247px;
+    width: 100vw;
+    max-height: 355px;
+    height: 100vh;
+    border: none;
+    border-radius: 22px;
+    box-shadow: 15.264140129089355px 15.264140129089355px 53.07101821899414px 0px #0000001F;
+}

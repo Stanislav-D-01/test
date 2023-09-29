@@ -1,0 +1,62 @@
+.header{
+    font-family: "Inter", Arial, sans-serif;
+     max-width: 1440px;
+     width: 100vw;
+    display: flex;
+    flex-direction: row;
+    margin: 46px 0 0 0;
+}
+.header__ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.header__li {
+font-weight: 500;
+line-height: 27px;
+size: 17px;
+color: #606060;
+margin-left: 57px;
+}
+
+.header__image{
+    max-width: 53px;
+    max-height: 53px;
+    object-fit: cover;
+    margin-left: 93px;
+
+}
+
+.header__input{
+    max-width: 348px;
+    width: 100vw;
+    max-height: 57px;
+    margin: 0;
+    padding: 0;
+    background-color: #EDEDED;
+    border: none;
+    border-radius: 16px;
+    margin-left: 117px;
+    margin-right: 45px;
+    background-image: url(../../image/loopa.svg);
+    background-repeat: no-repeat;
+    text-indent: 61px;
+    background-position:left;
+    background-position-x: 22px;
+     
+}
+
+.header__button{
+    max-width: 200px;
+    width: 100%;
+    max-height: 57px;
+    color: white;
+    background-color: #141416;
+    border-radius: 16px;
+    border: none;
+    
+}
